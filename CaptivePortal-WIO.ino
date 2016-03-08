@@ -24,6 +24,8 @@
 //Enter here the BASE64 encoded Credentials in the form <Username>:<Password>, www.base64encode.org   eg: encode bob:builder == Ym9iOmJ1aWxkZXI=
 #define CredBase64 "" 
 
+
+
 //retrieve your altitude & GPS coordinates from http://www.gps-coordinates.net/
 const String StationName = "Wio-01"; //Enter the Station Name how it will be displayed on Openweathermap.org
 const String lat = "-27.938179"; //Latitude goes here
