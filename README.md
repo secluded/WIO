@@ -1,5 +1,8 @@
 # WIO
-Weather Station
+
+Secluded.io weather station that pushes to http://openweathermap.org/
+© 2016 Secluded.io LLC
+Created by Skip Christian and Steve Dalton. http://secluded.io
 
 ## Building the code
 
